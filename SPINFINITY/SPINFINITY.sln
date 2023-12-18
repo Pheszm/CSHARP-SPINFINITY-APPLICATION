@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPINFINITY", "SPINFINITY\SPINFINITY.csproj", "{59795AA6-844D-4A6C-8F20-843B7CD46934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59795AA6-844D-4A6C-8F20-843B7CD46934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59795AA6-844D-4A6C-8F20-843B7CD46934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59795AA6-844D-4A6C-8F20-843B7CD46934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59795AA6-844D-4A6C-8F20-843B7CD46934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E7E970-7FAE-4DB5-9A53-6894D0F1AA6D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe.config
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.pdb
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.AssemblyReference.cache
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.MainForm.resources
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Properties.Resources.resources
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.GenerateResource.cache
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.CoreCompileInputs.cache
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.exe
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.pdb
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AddingPage.resources
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.SpinPage.resources
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.WelcomePage.resources
+D:\Carl Files\Programming Codes\C# programming\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AboutPage.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe.config
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.pdb
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.AssemblyReference.cache
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.MainForm.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AboutPage.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AddingPage.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.SpinPage.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.WelcomePage.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Properties.Resources.resources
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.GenerateResource.cache
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.CoreCompileInputs.cache
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.exe
+C:\Users\SRCB-IT-GUEST-20\Downloads\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.pdb
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe.config
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.exe
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\bin\Debug\SPINFINITY.pdb
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.AssemblyReference.cache
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.MainForm.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AboutPage.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.AddingPage.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.SpinPage.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Pages.WelcomePage.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.Properties.Resources.resources
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.GenerateResource.cache
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.csproj.CoreCompileInputs.cache
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.exe
+C:\Users\Girly S. Gallardo\Music\SPINFINITY\SPINFINITY\obj\Debug\SPINFINITY.pdb
